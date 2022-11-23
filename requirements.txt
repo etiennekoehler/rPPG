@@ -1,0 +1,7 @@
+mediapipe
+numpy
+opencv_python
+pandas
+PyQt5
+pyqtgraph
+scipy
